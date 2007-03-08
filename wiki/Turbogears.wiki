@@ -1,12 +1,18 @@
-#summary Before you install Icebreaker, you must first install Turbogears.
+#summary Before you install Icebreaker, you must first install TurboGears.
 
 = Introduction =
 
-Turbogears is the framework Turbogears is based on
+TurboGears is the framework Icebreaker is based on
 
 
 = Details =
 
+If you already have Python installed, there are only 2 steps to install TurboGears:
 
+   1. Download the [http://www.turbogears.org/download/tgsetup.py tgsetup.py] script.
+   2. Run tgsetup.py on Windows, or run python tgsetup.py on Unix or Mac
+
+
+Additional information is available [http://www.turbogears.org/download/ here].
 
 
