@@ -1,4 +1,6 @@
+#summary My accepted application for Google's Summer of Code
 #labels Phase-Design,Phase-QA,Phase-Requirements
+
 I run a Icecast stream for the use of myself and my friends, and while making playlists for it, I was very overcome by the enormity of the task. I have a modest OGG collection by some standards, 2500 tracks. I pity anyone that has ever tried to make playlists for a large streaming site with who knows how many tracks. What's more, I can't be bothered to switch playlists out all the time. So the natural progression seemed to be a simple drag-and-drop interface to create and schedule playlists.
 
 I plan to use a separate backend from the web interface, so that a X-based frontend could be added eventually, or support could be added in an existing media application. SQLObject will be used to provide support for multiple databases with one set of code. I will try to minimize configuration to media path, and database connections, and password for the interface.
