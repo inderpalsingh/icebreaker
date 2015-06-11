@@ -1,0 +1,1 @@
+Database-driven web based playlist manager/scheduler for Icecast. Written in Python and based on Turbogears. Does not require Apache. Planned integration with Google Calendar to show your listeners your programming. Allows creation of playlists based on metadata. Minimal configuration, easy to install.
